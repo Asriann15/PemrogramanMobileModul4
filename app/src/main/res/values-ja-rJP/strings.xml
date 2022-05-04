@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MuscleApp</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">Muscle Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">設定</string>
+    <string name="selamat_datang">ワークアウトアプリへようこそ</string>
+
+    <string name="menu_home">家</string>
+    <string name="menu_gallery">ギャラリー</string>
+
+    <string name="w1">自宅でのトレーニング</string>
+    <string name="w2">最初のトレーニング</string>
+    <string name="w3">押し上げる</string>
+    <string name="w4">引き上げる</string>
+    <string name="w5">起き上がる</string>
+    <string name="w6">板張り</string>
+    <string name="w7">コブラポーズ</string>
+    <string name="w8">オーバーヘッド拡張</string>
+    <string name="w9">チンアップ</string>
+    <string name="w10">サポートサプリメント</string>
+
+    <string name="desc_image1">
+    あなたが体重を減らすことを計画している、または理想的な体型を持っているなら、
+        あなたができる最も簡単な方法は、定期的な運動をすることです。
+    </string>
+
+    <string name="desc_image2">
+    トレーニングは、体が比較的短時間でカロリーと脂肪を燃焼するのを助けることができます。
+         それだけでなく、激しい運動があまり好きでない場合は、トレーニングも別の方法です。
+         または単に定期的に運動を開始することを計画している
+    </string>
+
+    <string name="desc_image3">
+    腕立て伏せは、上腕二頭筋と上腕三頭筋をトレーニングするために機能する筋力トレーニングの一種です。
+    </string>
+
+    <string name="desc_image4">
+    懸垂は、筋肉量を維持および増加させることを目的とした筋力トレーニングの一種です。
+         このエクササイズは、体、特に腕と上半身の筋肉を形作るのに役立ちます。
+    </string>
+
+    <string name="desc_image5">
+    腹筋運動は、特に腹部の筋肉が平らに見えるように調子を整える場合に、さまざまな利点がある運動です。
+         腹筋に加えて、このタイプの運動は胸の筋肉を鍛えるのにも役立ちます
+    </string>
+
+    <string name="desc_image6">
+    板張りは、体にとって最も効果的な簡単な運動の1つです。
+         毎日60秒間板を動かすだけで、
+         体の筋肉が強くなり、メリットを実感できます
+    </string>
+
+    <string name="desc_image7">
+    コブラポーズは姿勢を改善する強力な動きであり、脊柱起立筋と腰の他の領域の筋肉を強化するのに非常に効果的です
+    </string>
+
+    <string name="desc_image8">
+    オーバーヘッドエクステンションは、ダンベルトライセップエクステンションとも呼ばれ、上腕三頭筋を対象とした隔離運動です。
+    </string>
+
+    <string name="desc_image9">
+    チンアップは、背中上部の広背筋を対象としたウェイトトレーニングエクササイズです。
+         また、腕の上腕二頭筋。
+    </string>
+
+    <string name="desc_image10">
+    ホエイサプリメントは通常、高タンパク質を含み、訓練された筋肉を構築するのに役立ちます。
+    </string>
+</resources>

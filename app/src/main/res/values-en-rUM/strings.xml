@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MuscleApp</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">Muscle Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="selamat_datang">Welcome in app Workout</string>
+
+
+    <string name="w1">Workout at Home</string>
+    <string name="w2">Workout First Brother</string>
+    <string name="w3">Push Up</string>
+    <string name="w4">Pull Up</string>
+    <string name="w5">Sit Up</string>
+    <string name="w6">Planking</string>
+    <string name="w7">Cobra Pose</string>
+    <string name="w8">Overhead Extension</string>
+    <string name="w9">Chin Up</string>
+    <string name="w10">Support Suplements</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+
+    <string name="desc_image1">
+    If you are planning to lose weight or have an ideal body shape,
+    The easiest way you can do is to regularly do workout movements.
+    </string>
+
+
+    <string name="desc_image2">
+    Workout can help the body burn calories and fat in a relatively short time.
+    Not only that, workout is also another way if you don't like strenuous exercise.
+    or just planning to start exercising regularly
+    </string>
+
+    <string name="desc_image3">
+    Push ups are a type of strength exercise that works to train the biceps and triceps.
+    </string>
+
+    <string name="desc_image4">
+    Pull ups are a form of strength training that aims to maintain and increase muscle mass.
+    This exercise is beneficial for shaping the body, especially the muscles of the arms and upper body.
+    </string>
+
+    <string name="desc_image5">
+    Sit ups are an exercise that has a variety of benefits, especially for toning the abdominal muscles so that they look flat.
+    In addition to the abdominal muscles, this type of exercise can also help train the chest muscles
+    </string>
+
+    <string name="desc_image6">
+    Planking is one of the most effective simple exercises for the body.
+    Just by doing plank movements for 60 seconds every day,
+    the muscles of the body will become strong and you will feel the benefits.
+    </string>
+
+    <string name="desc_image7">
+    Cobra Pose is a powerful movement to improve posture, very effective in strengthening the spinal erector and muscles in other areas of the lower back.
+    </string>
+
+    <string name="desc_image8">
+    The Overhead Extension, also known as the dumbbell tricep extension, is an isolation exercise that targets your triceps muscles.
+    </string>
+
+    <string name="desc_image9">
+    Chin up is a weight training exercise that targets the latissimus dorsi muscles in the upper back,
+    also the biceps muscles in the arm.
+    </string>
+
+    <string name="desc_image10">
+    Whey supplements usually contain high protein and help build trained muscles.
+    </string>
+</resources>
